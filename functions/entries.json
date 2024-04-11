@@ -1,0 +1,76 @@
+[
+    {
+        "aliasname": "aliasname",
+        "alternateNames": [
+            "alternateNames",
+            "alt2"
+        ],
+        "password": "password",
+        "email": "email",
+        "username": "username",
+        "url": "url",
+        "tags": [
+            "tags"
+        ],
+        "desc": "desc",
+        "creation": "2024-04-01T02:04:05+05:30",
+        "modified": "2024-04-01T02:04:05+05:30",
+        "strength": "strength",
+        "expiry": ""
+    },
+    {
+        "aliasname": "aliasname1",
+        "alternateNames": [
+            "jenkinsalt",
+            "jenkins"
+        ],
+        "password": "password",
+        "email": "email",
+        "username": "username",
+        "url": "url",
+        "tags": [
+            "tags"
+        ],
+        "desc": "desc",
+        "creation": "2024-04-01T02:16:47+05:30",
+        "modified": "2024-04-01T02:16:47+05:30",
+        "strength": "strength",
+        "expiry": ""
+    },
+    {
+        "aliasname": "aliasname",
+        "alternateNames": [
+            "bitbucket"
+        ],
+        "password": "password",
+        "email": "email",
+        "username": "username",
+        "url": "url",
+        "tags": [
+            "tags"
+        ],
+        "desc": "desc",
+        "creation": "2024-04-01T02:16:57+05:30",
+        "modified": "2024-04-01T02:16:57+05:30",
+        "strength": "strength",
+        "expiry": ""
+    },
+    {
+        "aliasname": "aliasname",
+        "alternateNames": [
+            "alternateNames"
+        ],
+        "password": "password",
+        "email": "email",
+        "username": "username",
+        "url": "url",
+        "tags": [
+            "tags"
+        ],
+        "desc": "desc",
+        "creation": "2024-04-04T06:36:11+05:30",
+        "modified": "2024-04-04T06:36:11+05:30",
+        "strength": "strength",
+        "expiry": ""
+    }
+]
